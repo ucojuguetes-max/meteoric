@@ -1,7 +1,6 @@
-/* app/globals.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/* estilos globales opcionales */
+/* opcional */
 html, body { height: 100%; }
